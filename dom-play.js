@@ -1,1 +1,3 @@
-alert ("HI");
+//alert ("HI");
+
+document.querySelectorAll()
